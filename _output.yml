@@ -1,0 +1,25 @@
+bookdown::gitbook:
+  config:
+    toc:
+      before: |
+        <li><a href="https://twitter.com/InfiniteGwei/"><center>Community Building Playbook</center></a></li>
+      after: |
+        <li><a href="https://twitter.com/InfiniteGwei/"><i>Maintained by infi</i> 😄</a>
+        <a href="https://github.com/rstudio/bookdown"><i>Published using bookdown</i> 📕</a></li>
+      collapse: section
+      scroll_highlight: true
+    toolbar:
+      position: null
+    edit: https://github.com/InfiniteGwei/playbook/edit/%s
+    download: null
+    search:
+      engine: lunr
+      options: null
+    fontsettings:
+      theme: dark
+      family: sans
+      size: 2.5
+    sharing:
+      twitter: true
+      linkedin: true
+    info: true

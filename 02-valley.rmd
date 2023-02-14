@@ -1,0 +1,159 @@
+# Phase 2: The Valley {-}
+
+> *"Politeness is the poison of collaboration."* — Edwin Land
+> 
+
+![[McMurdo Dry Valleys](https://www.alluringworld.com/mcmurdo-dry-valleys/)](img/4.png)
+
+Phase 2 is best defined as the dip. Your intial enthusiasm and energy has slowly worn off and you’re motivations are getting tested by the day.
+
+Sure, you are not stumbling in the dark — you know where you’re going and you have a strong team of five or six members that have made tangible progress.
+
+But things have suddenly become complex and have taken a different shape. You are now in the valley.
+
+## Setting the Stage {-}
+
+The meta of navigating the valley is addressing the newfound complexity in your community. This comes in two forms — the first is internal complexity. Your community has essentially doubled in size, which has increased coordination costs. Arriving at consensus takes longer, and you might see in-groups forming in your community.
+
+The second is external complexity. All the context you set in the beginning — while important to reach here — now stands questioned. For example, your narrative might not have had the impact you expected it to, or it may have attracted those that are more interested in spectating rather than participating.
+
+Here are some frameworks and concepts to keep in mind as you navigate the valley.
+
+### Foster your community {-}
+
+The first outside people to join your community are special because they were attracted by the potential of your community, and not its actual progress or impact. Joining a community at this stage implies high levels of intrinsic motivation, since they are few to no external benefits or bragging rights of joining any community so early.
+
+At this stage, it is of utmost importance to speak to the intrinsically motivated parts of your members than the extrinsically motivated parts. This is best done by highlighting and appreciating each member individually and publicly for their contributions.
+
+At the same time, you should put some effort into defining different ways people could get involved to reduce the distance from a new member to an active contributor. Such pathways provide templates to collect social capital, which makes people spring to action.
+
+The open source community is a wonderful example of this. Since practically all issues are open and all PRs can are default visible, members visibly collect social capital by contributing to repositories, with the ultimate validation coming in the form of a merged pull request.
+
+### Set decision making processes {-}
+
+As communities scale, attaining a perfect consensus gets exponentially tougher. But most of the times a perfect consensus isn’t even needed. Time that’s arguing about the **theoretical** best decision is actually traded-off for **concretely** slower execution. Therefore, a good enough decision making process is often sufficient.
+
+What does this look like, though? Well, a decision making process focussed on schelling points is a sufficient strategy for most communities. In reality, each individual has a different way of calculating the cost vs. benefit of specific decisions. So it is difficult to have everyone agree upon the “best” outcome to choose/vote for.
+
+Instead, if everyone based their decision on what they think *everyone else* will choose, [consensus is arrived at faster](https://medium.com/@komorama/on-schelling-points-in-organizations-e90647cdd81b). Having a consistent, clear North star, i.e. your community’s goal agreed upon goal, also makes decision-making much easier. (link to phase 1, creating narratives)
+
+### Conflict Resolution {-}
+
+If you have been working hard, you have probably already seen an intense disagreement or two in  your community. Depending on how agreeable your members are, this would have either ended in reluctant giving in followed by both parties holding grudges, or a massive blow-up that created a rift in your community.
+
+But conflict is not necessarily a bad thing! If anything, it is a sign that people care. This is the right stage to create a ritual, a process around conflict resolution. The focus of this should *always* be on reconciliation of the differing factions, never an **investigation** or a **judgement** of who was at fault.
+
+This is also a right time to set formal rules around inter-personal behaviour in your community. While an inclusive conflict resolution process is great for matters pertaining to the community at large, you need a slightly different approach to inter-personal conflicts that leave either party with the inability to full express themselves. A good start is for the leaders, i.e. the initiators of the community to hold a safe space where members can come forth and share their concerns, no matter how trivial or grave.
+
+## Time to Perform! {-}
+
+The valley is defined by the exponential increase in the complexity of everything. It may feel things are tougher than what you expected them to be. This is normal. Finish the following activities to maintain your sanity when the going gets tough.
+
+### Fostering community {-}
+
+Fostering your community is best seen from various perspectives.
+
+*Activity 6: Where does your community reside?*
+
+The first order of business is creating a formal, shared space where you community can congregate. 
+
+- Clean up or create a new Discord server.
+    - Have different channels for different purposes. Ideally, you need to start with the fewest number of channels and only add more when existing channels are overflowing with activity. Having too many channels with little to no activity makes your server seem dead.
+    - This means you should have a *general channel* where anyone can come and message. A *gm channel* where everyone sends daily gm’s, and an *off-topic channel* to share memes, music/TV show recs, discuss interests, etc. In addition to this, you should have two channels where only the admins can send messages, others can only view. The first one is a channel that specifies server rules and links members to your community’s social media, as well as answering some FAQ. The second one is a channel where the full-time contributors discuss work matters.
+    - Chances are that the most active channel in your server will be the one the core team discusses matters related to work. This channel will be the one new members will be most curious to see. Therefore, be very intentional in how you communicate with each other.
+    - Remember, you are indirectly telling people what kind of behaviours are expected, encouraged and tolerated.
+
+*Activity 7: Spread the word!*
+
+At this stage, you would want to set clear paths with different levels of involvement for members. The paths should be divided exponentially — each successive path should have a much higher amount of work and reward than the previous one.
+
+- What are some ways people can participate in your community?
+    - What is the easiest way to participate in your community? This could be as simple as interacting with your posts or creating social media content. For example, members could translate articles, create TikToks or explainers, etc.
+    - Ideally you should have three paths. The first path should be something that anyone can do with just a few minutes of investment per day. The second path is something that would ideally require a couple hours a week. The third path is something that would require an hour or more per day.
+    - This is also a great way to spread the word about your community and discover your most enthusiastic members. Ideally when expanding your team, you should choose from this pool first.
+
+*Activity 8: Give everyone an opportunity to lead.*
+
+The best communities are built of leaders. Empowering everyone with an opportunity to lead does wonders for your community dynamic, not to mention that it makes your community more resilient.
+
+- Create a ritual where community members get to lead in turns.
+    - You could, for example, choose a different member to host your weekly internal calls.
+    - You could also involve your top contributors to critical meetings or take their opinions in meta-admin matters.
+- Decide and create a totem for your community.
+    - Present the community with a task to decide upon and create a totem for your community. This could be an NFT, a physical object, an event or anything else. The idea is get the community to work out the details and execute the task together.
+    - From choosing the format, to the design, to the actual creation and then its distribution — these are all opportunities for people to hone and display their leadership skills.
+
+### Making decisions {-}
+
+The faster your decision making, the longer your community will survive. This is because making decisions inject energy in your community. They are a marker of movement and progress, which is the best motivator for any community member.
+
+*Activity 9: Document your decision-making process.*
+
+- Get everyone onboard with quick decision making.
+    - Whether a decision was right or wrong is something that is only discovered far in the future.  While deciding on the **********theoretical********** best option, you indirectly decide on ***********concretely*********** slower execution. This saps your community’s morale, which is a far more accurate predictor of your community’s death than making a wrong decision.
+- Introduce the idea of schelling points.
+    - Promote a decision making process that encourages members to first think about what others are most likely to decide, and then choosing that option or from that set of options, instead of thinking evaluating the options first and then choosing from them.
+    - There is a high degree of divergence in what everyone considers to be the best option, however there is low to moderate convergence in what everyone thinks ******others****** will find to be the best option.
+    - Thinking in terms of schelling points, thus, either makes the decision for you, or narrows down your options which is another step to quick decision making.
+- Finally, document your process.
+    - Create a separate document that summarises you decision making processes. This should ideally fit in a page, and couple even be appended to your manifesto.
+    - This is will benefit the new members in understanding how things are done in your community, and are good reference points in times of confusion or disagreement.
+
+*Activity 10: Setup a governance process.*
+
+- Decide how to give governance power in your community.
+    - This is best done through membership NFTs, since these are easy to setup and manage as your community grows over time. rep3’s platform enables communities to setup membership badges and a Gnosis Safe in a few clicks, which saves you the trouble of figuring out and setting these up separately.
+    - Membership NFT based governance also doesn’t require a large amount of setup upfront like that required to launch tokens (deciding on supply, creating liquidity pools, fair distribution, etc.) and saves your community from governance attacks.
+    - Lastly, this is also a good time to setup token gated spaces in your Discord server, and explore token-gated collaboration tools such as Clarity or Charmverse. (link these here)
+- Choose a platform where members can show up and vote.
+    - We suggest using Snapshot, since it is the default for all communities and is the easiest to setup. This is also the right time to set a formal proposal process that encourages members to share ideas, form comprehensive proposals and table them.
+
+### Resolving conflicts {-}
+
+As mentioned above, conflicts are a natural part of working and living in groups. It is not the conflict, but rather the community’s response to it that has path altering effects on the community’s trajectory. The idea of all conflict resolution is to reconciliation by going to back to a point where everyone was in harmony.
+
+*Activity 11: Elect an ombudsman in your community.*
+
+- The ideal ombudsman is the individual that the community deems impartial enough to resolve conflicts.
+    - Have your community vote upon and decide upon an ombudsman. Work closely with this person to propose a conflict resolution playbook that documents the conflict-resolution process.
+    - A sample process could look like this — the parties involved submit description of the facts of the event and their intrepretations of it. The ombudsman then reviews these decisions and then goes into discussion with the two parties, starting with getting them to agree on facts, and then reconcile their differences thereon.
+
+*Activity 12: Define your community’s code of conduct.*
+
+- Prevention is better than cure. It is much easier to define and nudge your members towards proper ways of conducting themselves in the community, than it is to address someone breaking the code of conduct.
+    - A code of conduct is just a solidified, objective and a thorough description of your values. In addition to it should also list the basics i.e. a complete intolerance of any kind of discrimination (based on religion, gender of choice, perceived skill level, etc.) and behaviour that may contribute to creating an unhealthy atmosphere (unwelcome sexual attention, harassment or trolling, bullying people or taking sides, etc.)
+- Having a code of conduct that is not enforced is worse than having one that is. Be extremely clear about escalation practices. For example, institute a warning system in place, where each digression from the code of conduct is taken as one warning. Then, make it so it is easy for everyone to track the warnings of members ********without******** knowing what they were warned for.
+    - This could be done through badges that convey a warning was issued without any more details. You could also institute bans instead of or along with a warning system.
+- As founding members of the community, it is your imperative to hold safe spaces for everyone and anyone to come forth and share their concerns, no matter how trivial or grave. Make sure you along with the ombudsman are aligned on this, and communicate it frequently with the community.
+- *Activity 13: Revisit activity 1.*
+    
+    In communities, the earliest members often set the tone of interactions for everyone that comes after. New members often look at the communication patterns of early members to see what is accepted and what isn’t. Here, your actions speak much, much louder than your words.
+    
+    - Whatever precedent you set for your community, there is a high chance that someone takes it to its extremes. For example, if you have a culture of tolerating playful banter, then down the line you will see someone or the other take it to its extreme and outright troll or bully someone. Or, if you have a culture of shipping fast and turning around things quickly, chances are, sometimes people will not even adhere to the bare minimum standard of quality.
+    - Take a step back and think hard about this. You ideally do not have to change yourself completely for your community. You just need to be careful in upholding boundaries or standards.
+    - That’s why the biggest communities have zero tolerance for things that are common in small groups of people, simply because it broadens the “grey area” which is were most transgressions of a community’s code of conduct lie.
+- Remember, people are more concerned with not looking bad in front of their peers than gaining their praise. Often, not acknowledging and encouraging the unwanted behaviour by anyone, ever is a really strong way to prevent transgressions of your code of conduct, or address them swiftly if they ever happen.
+
+## Common Roadblocks {-}
+
+![[The Dip by Seth Godin](https://www.bennadel.com/blog/776-the-dip-by-seth-godin-thanks-jack-welde.htm)](img/5.png)
+
+[The Dip by Seth Godin](https://www.bennadel.com/blog/776-the-dip-by-seth-godin-thanks-jack-welde.htm)
+
+A community in the valley stage gets slowly gets itself exposed to reality for the first time. This can be a tough process to navigate. Things might *****feel***** like they are not working or breaking down, when in fact they are. And if they aren’t, then sometimes it is tough to actually understand *****what***** is breaking down and ***why***.
+
+When in doubt, always look if the reason can be attributed to internal complexity or external. Chances are, the roadblock you face is ideally a result of both internal and external complexity.
+
+The aim then is to do what you can control. You always have a control on how you work and approach problems. Focus on this. Set, revisit or revise processes. Consciously steer your culture. 
+
+It may be tempting to get right to “what matters” and move on to the next thing. But the importance of spending time on your culture in this stage cannot be overstated. This may just be the last time you have any sort of proper control over it.
+
+## Conclusion {-} 
+
+Contrary to the first stage where things seem “up only”, a valley starts with a decline and eventually ends up with things looking not-so-bad. You go from what is essentially one small unit of five or six people to ****two**** small units of this size.
+
+Your community now onwards can be best seen as a collection of similar-sized units. If you have been careful, you have templatized this process of growth. You would have also become comfortable with putting yourself out there, and have learnt the true value of the feedback gained from exposing your ideas to the world.
+
+You have most probably revisited some aspect of your narrative or your values, and you have a space that your community calls home. You have processes for collective decision making and managing your finances in an open way.
+
+Your mission seems to have the potential to resonate with people — not because you simply think so, but because you have signs that point in this direction. Things will pick up the pace soon, and the way you look at your community is going to change. 

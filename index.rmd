@@ -1,0 +1,42 @@
+--- 
+title: "Community Building Playbook"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://infinitegwei.github.io/playbook/
+cover-image: "img/cover.png"
+description: "This is community building playbook originally authored by @InfiniteGwei from rep3. This book is a public good. We strongly encourage you to read, share and contribute to this resource!"
+link-citations: yes
+github-repo: infinitegwei/playbook
+---
+
+# Hey there! {-}
+
+![This playbook is incomplete.](img/cover.png)
+
+In our quest to help communities maximise their potential, we couldn’t help but try and understand how communities work at a deeper level.
+
+- What dynamics govern them? 
+- How does an average community evolve over time? 
+- And, most importantly, how does one start a community around an interest or a goal?
+
+To answer these questions, we started putting together this community building playbook as a public good. And we invite you to co-create it with us!
+
+Distilling community building to a formula is no simple task, and it is also not our intention here. We aim to, instead, open a two-way dialogue with the reader, and discuss the general direction we should walk in. As a result, this public good may seem incomplete. In fact, it shall always be so.
+
+As participants in communities, we are all well aware of the infinite ways through which communities rise and fall. Further, technological developments have always added layers on this process which breaks certains ground rules and introduces new ones.
+
+For example, the rules of building a decentralized, digital community are slightly different from building one irl. Standing in the third decade of the 21st century, we continue to witness the meteoric rise of these digital communities.
+
+The rest of this book discusses their peculiarities, as well as highlights concepts and practices that have *seemed* to work so far. We invite you to share your experiences so we may refine this playbook, and make it the ideal launchpad for the community builders of tomorrow.
+
+We have taken an evolutionary approach and have divided a community's lifecycle into four distinct stages. Then, we have introduced concepts and exercises relevant to each specific stage.
+
+Before you begin, we highly recommend you to reflect upon any communities you are a part of. Doing this will maximise the value you get from playbook.
+
+- How do you feel as a member of that community?
+- What makes it tick?
+- What's one thing you don't like?
+- How could it be made better?
+
+Take a few minutes to think about that, and feel free to share your thoughts in the comments below!
