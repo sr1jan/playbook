@@ -10,7 +10,7 @@ bookdown::gitbook:
       scroll_highlight: true
     toolbar:
       position: null
-    edit: https://github.com/InfiniteGwei/playbook/edit/%s
+    edit: https://github.com/InfiniteGwei/playbook/edit/main/%s.rmd
     download: null
     search:
       engine: lunr
