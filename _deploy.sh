@@ -2,8 +2,8 @@
 
 set -e
 
-[ -z "${GITHUB_PAT}" ] && exit 0
-[ "${TRAVIS_BRANCH}" != "master" ] && exit 0
+[ -z "${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}" ] && exit 0
+[ "${gh-pages}" != "master" ] && exit 0
 
 git config --global user.email "infinitegwei@skiff.com"
 git config --global user.name "infi"
